@@ -1,0 +1,20 @@
+Oct 02, 2024 3:25:55 PM VirtualClassroomManager addClassroom
+INFO: Classroom created: Math101
+Oct 02, 2024 3:26:04 PM VirtualClassroomManager removeClassroom
+INFO: Classroom removed: Math101
+Oct 02, 2024 3:26:23 PM VirtualClassroomManager addClassroom
+INFO: Classroom created: Math101
+Oct 02, 2024 3:26:32 PM VirtualClassroomManager addStudent
+INFO: Student 1001 enrolled in Math101
+Oct 02, 2024 3:26:42 PM VirtualClassroomManager scheduleAssignment
+INFO: Assignment scheduled for Math101
+Oct 02, 2024 3:26:50 PM VirtualClassroomManager submitAssignment
+INFO: Assignment submitted by Student 1001 in Math101
+Oct 02, 2024 3:27:04 PM VirtualClassroomManager removeClassroom
+INFO: Classroom removed: Math101
+Oct 02, 2024 3:27:28 PM VirtualClassroomManager addClassroom
+INFO: Classroom created: Physics201
+Oct 02, 2024 3:27:33 PM VirtualClassroomManager addClassroom
+INFO: Classroom created: Math101
+Oct 02, 2024 3:27:49 PM VirtualClassroomManager addStudent
+INFO: Student 1002 enrolled in Math101
