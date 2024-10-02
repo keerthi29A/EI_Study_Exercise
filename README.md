@@ -1,3 +1,5 @@
+##Topic--Multi-Model Classification for Diabetic Retinopathy and Diabetic Foot Ulcer
+
 # Abstract
 
 This project presents a multi-modal deep learning framework for the classification of diabetic retinopathy (DR) and diabetic foot ulcers (DFU), two major complications of diabetes that can lead to severe outcomes if not diagnosed early. Leveraging advanced image processing techniques and deep learning architectures, the system classifies medical images into normal and abnormal categories for both DR and DFU.
